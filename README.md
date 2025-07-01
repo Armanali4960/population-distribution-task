@@ -1,6 +1,6 @@
-# Population Distribution Visualization
+# Population Distribution Visualization - CST_DS_01
 
-This project is part of Task 01 of my Data Science Internship at SkillCraft Technology.
+This project is part of **Task 01 (Code: CST_DS_01)** of my Data Science Internship at SkillCraft Technology.
 
 ## 📊 Task Objective
 Visualize the distribution of India's population by age in 2022 using a bar chart.
